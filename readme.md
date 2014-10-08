@@ -2,8 +2,11 @@ Front End Challenge
 ====================
 This design first code/design test allows you to choose your own path and lets you flaunt your creative panache along the way.  In a fictional world, we have just acquired a new FM radio station (although AM is appealing as well) and we want you to design a home page for the web site. 
 
-Design / Code Levels
--------
+
+
+####Design / Code Levels
+
+Choose one or all of the following routes for your journey.
 
 -------
 ### "Z105"
