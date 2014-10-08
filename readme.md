@@ -44,6 +44,6 @@ Choose one or all of the following routes for your journey.
 + Create a basic design mockup in photoshop or illustrator
 + Layout the design in HTML and CSS
 + Show the TOP 10 of the top100.json file inside this repo
-+ Allow the top 100 to be searchable or allow the top 10 to be loaded in chunks of 10
++ Allow the top 100 to be searchable or allow the top 100 to be loaded in chunks of 10 when a user scrolls or presses a button
 
 -------
