@@ -6,9 +6,7 @@ Design / Code Levels
 -------
 
 ### "Z105"
-
-![Z105](/images/Z105.png "Z105")
-
 *Small market radio station that wants to be big time*
+![Z105](/images/Z105.png "Z105")
 
 + Create a basic design mockup in photoshop or illustrator
