@@ -16,7 +16,7 @@ Choose one or all of the following routes for your journey.
 ![Z105](/images/Z105.jpg "Z105")
 
 **TASKS**
-* Name the radio station, number and slogan
+* Name the radio station, number and slogan/tagline
 + Create a basic design mockup in photoshop or illustrator
 
 -------
@@ -27,7 +27,7 @@ Choose one or all of the following routes for your journey.
 ![WKRP](/images/WKRP.jpg "WKRP")
 
 **TASKS**
-* Name the radio station, number and slogan
+* Name the radio station, number and slogan/tagline
 + Create a basic design mockup in photoshop or illustrator
 + Layout the design in HTML and CSS
 + Show the TOP 10 of the top100.json file inside this repo
@@ -40,7 +40,7 @@ Choose one or all of the following routes for your journey.
 ![HOWARD](/images/HOWARD.jpg "HOWARD")
 
 **TASKS**
-* Name the radio station, number and slogan
+* Name the radio station, number and slogan/tagline
 + Create a basic design mockup in photoshop or illustrator
 + Layout the design in HTML and CSS
 + Show the TOP 10 of the top100.json file inside this repo
