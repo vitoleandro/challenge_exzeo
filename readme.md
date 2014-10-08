@@ -6,16 +6,22 @@ Design / Code Levels
 -------
 
 ### "Z105"
+-------
 *Small market*
+
 ![Z105](/images/Z105.jpg "Z105")
+
 **TASKS**
 * Name the radio station, number and slogan
 + Create a basic design mockup in photoshop or illustrator
 
 
 ### "WKRP"
+-------
 *Possible national syndication*
+
 ![WKRP](/images/WKRP.jpg "WKRP")
+
 **TASKS**
 * Name the radio station, number and slogan
 + Create a basic design mockup in photoshop or illustrator
@@ -24,8 +30,11 @@ Design / Code Levels
 
 
 ### "HOWARD 100"
+-------
 *ON XM Radio and a legend worldwide*
+
 ![HOWARD](/images/HOWARD.jpg "HOWARD")
+
 **TASKS**
 * Name the radio station, number and slogan
 + Create a basic design mockup in photoshop or illustrator
