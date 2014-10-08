@@ -5,8 +5,9 @@ This design first code/design test allows you to choose your own path and lets y
 Design / Code Levels
 -------
 
-### "Z105"
 -------
+### "Z105"
+
 *Small market*
 
 ![Z105](/images/Z105.jpg "Z105")
@@ -15,12 +16,9 @@ Design / Code Levels
 * Name the radio station, number and slogan
 + Create a basic design mockup in photoshop or illustrator
 
-
 -------
-
-
 ### "WKRP"
--------
+
 *Possible national syndication*
 
 ![WKRP](/images/WKRP.jpg "WKRP")
@@ -31,12 +29,9 @@ Design / Code Levels
 + Layout the design in HTML and CSS
 + Show the TOP 10 of the top100.json file inside this repo
 
-
 -------
-
-
 ### "HOWARD 100"
--------
+
 *ON XM Radio and a legend worldwide*
 
 ![HOWARD](/images/HOWARD.jpg "HOWARD")
@@ -47,6 +42,5 @@ Design / Code Levels
 + Layout the design in HTML and CSS
 + Show the TOP 10 of the top100.json file inside this repo
 + Allow the top 100 to be searchable or allow the top 10 to be loaded in chunks of 10
-
 
 -------
