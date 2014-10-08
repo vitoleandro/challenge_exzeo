@@ -35,7 +35,7 @@ Choose one or all of the following routes for your journey.
 -------
 ### "HOWARD 100"
 
-*ON XM Radio and a legend worldwide*
+*ON XM Radio and syndicated worldwide*
 
 ![HOWARD](/images/HOWARD.jpg "HOWARD")
 
