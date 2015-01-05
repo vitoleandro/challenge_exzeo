@@ -1,12 +1,12 @@
 Front End Challenge
 ====================
-This design first code/design test allows you to choose your own path and lets you flaunt your creative panache along the way.  In a fictional world, we have just acquired a new FM radio station (although AM is appealing as well) and we want you to design a home page for the web site. 
+This code/design test allows you to choose your own path and lets you flaunt your creative panache along the way.  In a fictional world, we have just acquired a new FM/XM radio station (although AM is appealing as well, you hipster!) and we want you to design a home page for the web site. 
 
 
 
-####Design / Code Levels
+####Levels of Awesome
 
-Choose one or all of the following routes for your journey.
+Choose one of the following routes for your journey. 
 
 -------
 ### "Z105"
@@ -17,7 +17,8 @@ Choose one or all of the following routes for your journey.
 
 **TASKS**
 * Name the radio station, number and slogan/tagline
-+ Create a basic design mockup of the website in photoshop or illustrator
++ Create a basic design mockup of the website in photoshop, illustrator, balsamiq or axure
++ Layout the design in HTML and CSS
 
 -------
 ### "WKRP"
@@ -27,10 +28,8 @@ Choose one or all of the following routes for your journey.
 ![WKRP](/images/WKRP.jpg "WKRP")
 
 **TASKS**
-* Name the radio station, number and slogan/tagline
-+ Create a basic design mockup of the website in photoshop or illustrator
-+ Layout the design in HTML and CSS
-+ Show the TOP 10 of the top100.json file inside this repo
+* The tasks from Z105 above (if you wish, not required, we promise)
++ Show the TOP 10 of the top100.json file inside this repo using jquery or vanilla js.
 
 -------
 ### "HOWARD 100"
@@ -40,10 +39,8 @@ Choose one or all of the following routes for your journey.
 ![HOWARD](/images/HOWARD.jpg "HOWARD")
 
 **TASKS**
-* Name the radio station, number and slogan/tagline
-+ Create a basic design mockup of the website in photoshop or illustrator
-+ Layout the design in HTML and CSS
-+ Show the TOP 10 of the top100.json file inside this repo
+* The tasks from Z105 & WKRP above (if you wish, not required, we promise)
++ Incorporate angular, backbone, ember or whatever crazy new framework you like
 + Allow the top 100 to be searchable or allow the top 100 to be loaded in chunks of 10 when a user scrolls or presses a button
 
 -------
