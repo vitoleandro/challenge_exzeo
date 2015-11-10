@@ -1,6 +1,7 @@
 Front End Challenge
 ====================
-This code challenge allows you to choose your own path and lets you flaunt your creative panache and technical skills along the way.  You should be able to complete it about in 8 hours of working time, get as much completed as you can with the focus on functionality over design. 
+
+This code challenge allows you to choose your own path and lets you flaunt your creative panache and technical skills along the way. You should be able to complete it in about 8 hours of working time. Get as much completed as you can, with the focus on functionality over design.
 
 In a fictional world, we are branching into the music business and need a new a website. This website needs to display the top 100 songs based on the iTunes API.   
 
