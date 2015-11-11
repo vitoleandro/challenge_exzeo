@@ -11,7 +11,7 @@ In a fictional world, we are branching into the music business and need a new a 
 - A clean modern look
 - Clean, readable, maintainable codebase
 - Source code on Github
-- Cross browser support (or gracefully degradation) 
+- Cross browser support (or graceful degradation) 
 - Responsive design and implementation
 - A good user experience
 
